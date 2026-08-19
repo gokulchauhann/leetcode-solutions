@@ -1,5 +1,9 @@
 //LeetCode #1 - Two Sum
+//Approach: Brute Force - for each element, check every other element to find a pair that sums to target
 //Difficulty: Easy
+/*Time Complexity: O(n^2)
+  Space Complexity:O(1)
+*/  
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
