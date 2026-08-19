@@ -1,5 +1,9 @@
 //LeetCode #1493 - Longest Subarray of 1s After Deleting One Element
+//Approach: Sliding Window - expand with j, shrink from i whenever zero count exceeds 1
 //Difficulty: Medium
+/*Time Complexity: O(n)
+  Space Complexity:O(1)
+*/  
 class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
