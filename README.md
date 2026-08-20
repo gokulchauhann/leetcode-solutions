@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-2-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-3-brightgreen)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-August%202026-orange)
 
@@ -15,9 +15,9 @@ My LeetCode solutions and problem-solving journey — organized by problem, diff
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy    | 1      |
-| 🟡 Medium  | 1      |
+| 🟡 Medium  | 2      |
 | 🔴 Hard    | 0      |
-| **Total**  | **2**  |
+| **Total**  | **3**  |
 
 ---
 
@@ -27,6 +27,7 @@ My LeetCode solutions and problem-solving journey — organized by problem, diff
 |---|-------|------------|-------|----------|
 | 1 | Two Sum | 🟢 Easy | Array, Hash Map | [C++](Arrays/0001-two-sum/solution.cpp) |
 | 1493 | Longest Subarray of 1's After Deleting One Element | 🟡 Medium | Array, Sliding Window | [C++](Arrays/1493-longest-subarray-of-1s-after-deleting-one-element/solution.cpp) |
+| 713 | Subarray Product Less Than K | 🟡 Medium | Array, Sliding Window | [C++](Arrays/0713-subarray-product-less-than-k/solution.cpp) |
 
 ---
 
@@ -36,6 +37,8 @@ My LeetCode solutions and problem-solving journey — organized by problem, diff
 leetcode-solutions/
 ├── Arrays/
 │   ├── 0001-two-sum/
+│   │   └── solution.cpp
+│   ├── 0713-subarray-product-less-than-k/
 │   │   └── solution.cpp
 │   └── 1493-longest-subarray-of-1s-after-deleting-one-element/
 │       └── solution.cpp
